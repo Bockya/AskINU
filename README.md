@@ -14,6 +14,8 @@
 
 
 
+
+
 >  ## 주요 기능
 
 #### 1. 빈 강의실 찾기
@@ -28,15 +30,19 @@
 
 
 
+
+
 #### 2. 강의실 시간표 확인
 
 [![강의실 시간표 확인](https://raw.githubusercontent.com/kusakina0608/AskINU/master/img/thumbnail_2.jpg)](https://youtu.be/0EGeGn7FEUc)
 
-특정 강의실의 시간표를 알고싶을 때 강의실 시간표 확인 기능을 사용한다면,
+특정 강의실의 시간표를 알고싶을 때 강의실 시간표 확인 기능을 사용하여
 
 원하는 강의실에서 어떤 강의가 진행되는지 알 수 있습니다.
 
 화면 터치 또는 음성인식을 통해 강의실의 시간표를 간단히 조회할 수 있습니다.
+
+
 
 
 
@@ -50,11 +56,15 @@
 
 
 
+
+
 #### 4. 학교 생활 팁 확인
 
 [![학교 이용 팁 확인](https://raw.githubusercontent.com/kusakina0608/AskINU/master/img/thumbnail_4.jpg)](https://youtu.be/qH5DYqXvOQA)
 
 와이파이 비밀번호, 프린터 위치, 복지시설, 점심 메뉴 등 학교와 관련된 다양한 정보를 한눈에 확인할 수 있습니다.
+
+
 
 
 
