@@ -70,7 +70,29 @@
 
 > ## 프로젝트 구조
 
-
+<br>
 
 ![intro](https://raw.githubusercontent.com/kusakina0608/AskINU/master/img/Architecture.png)
+
+이뉴의 모든 기능은 화면 터치 또는 음성인식으로 사용할 수 있습니다.
+
+사용자의 음성 명령은 GCP를 통해 텍스트로 변환되어 자체 서버로 전송되며,
+
+서버에서는 전송받은 텍스트를 분석하여 원하는 정보를 사용자에게 전달해줍니다.
+
+서버는 AWS를 사용하여 Amazon Linux 2, Apache 웹 서버, MariaDB, PHP로 LAMP 스택이 구축되어 있습니다.
+
+
+
+> ## Credits
+
+### Creator
+
+**Kina**
+
+- [:octocat:Github](https://github.com/kusakina0608)
+
+**RiRi**
+
+- [:octocat:Github](https://github.com/yuhyerin)
 
