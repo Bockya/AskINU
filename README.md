@@ -82,7 +82,9 @@
 
 서버는 AWS를 사용하여 Amazon Linux 2, Apache 웹 서버, MariaDB, PHP로 LAMP 스택이 구축되어 있습니다.
 
+<br>
 
+<br>
 
 > ## Credits
 
