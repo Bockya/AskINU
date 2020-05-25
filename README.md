@@ -80,7 +80,7 @@
 
 서버에서는 전송받은 텍스트를 분석하여 원하는 정보를 사용자에게 전달해줍니다.
 
-서버는 AWS를 사용하여 Amazon Linux 2, Apache 웹 서버, MariaDB, PHP로 LAMP 스택이 구축되어 있습니다.
+AWS를 사용하여 구축한 서버에는 Amazon Linux 2, Apache 웹 서버, MariaDB, PHP의 LAMP 스택이 구축되어 있습니다.
 
 <br>
 
