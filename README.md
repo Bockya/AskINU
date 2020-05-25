@@ -1,6 +1,10 @@
-# TeamBooster
+> # 이뉴에게 물어봐
+>
+> 인천대학교와 관련된 정보를 제공해주는 캠퍼스 가이드 이뉴(INU) 입니다.
 
 ![intro](https://raw.githubusercontent.com/kusakina0608/AskINU/master/img/intro.gif)
+
+
 
 ## 1. 빈 강의실 찾기
 
