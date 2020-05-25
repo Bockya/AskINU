@@ -1,5 +1,6 @@
 # TeamBooster
 
+![intro](https://raw.githubusercontent.com/kusakina0608/AskINU/master/img/intro.gif)
 
 ## 1. 빈 강의실 찾기
 
