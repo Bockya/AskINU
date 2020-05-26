@@ -98,3 +98,10 @@ AWS를 사용하여 구축한 서버에는 Amazon Linux 2, Apache 웹 서버, Ma
 
 - [:octocat:Github](https://github.com/yuhyerin)
 
+**hyundong-yeo**
+
+- [:octocat:Github](https://github.com/hyundong-yeo)
+
+**Bockya**
+
+- [:octocat:Github](https://github.com/Bockya)
